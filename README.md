@@ -54,12 +54,12 @@ I build AI agent pipelines that go from **automated research** to **real-money e
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TLSRUF&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TLSRUF&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://gh-readme-stats.vercel.app/api?username=TLSRUF&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=TLSRUF&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TLSRUF&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.vercel.app/?user=TLSRUF&theme=tokyonight&hide_border=true" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:08f7fe,60:ff2e63,100:8a2be2&height=150&section=footer&animation=fadeIn&fontColor=ffffff" width="100%"/>
