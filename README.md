@@ -5,6 +5,11 @@
 </div>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/%EB%AF%BC%EA%B2%B0-%EC%8B%A0-8878ba406/"><img src="https://skillicons.dev/icons?i=linkedin" height="32"/></a>
+  <a href="mailto:tlsthets05@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32"/></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/TLSRUF/ai-trader-team"><img src="https://img.shields.io/badge/ai--trader--team-Research%20Agents-2ea44f?style=for-the-badge" /></a>
   <a href="https://github.com/TLSRUF/exchange-trading-bots"><img src="https://img.shields.io/badge/exchange--trading--bots-Execution%20Layer-orange?style=for-the-badge" /></a>
   <a href="https://github.com/TLSRUF/nftf"><img src="https://img.shields.io/badge/nftf-NFT%20Marketplace-blueviolet?style=for-the-badge" /></a>
