@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/%EB%AF%BC%EA%B2%B0-%EC%8B%A0-8878ba406/"><img src="https://skillicons.dev/icons?i=linkedin" height="32"/></a>
+  <a href="https://x.com/sbsebrknspal"><img src="https://skillicons.dev/icons?i=twitter" height="32"/></a>
   <a href="mailto:tlsthets05@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="32"/></a>
 </p>
 
