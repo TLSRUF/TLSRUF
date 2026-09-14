@@ -45,6 +45,7 @@ I build AI agent pipelines that go from **automated research** to **real-money e
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="45" height="45"/><br>React</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45"/><br>Next.js</td>
     <td align="center" width="90"><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="45" height="45"/><br>Ethereum</td>
+    <td align="center" width="90"><img src="https://s2.coinmarketcap.com/static/img/coins/64x64/52.png" width="45" height="45"/><br>XRP</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="45" height="45"/><br>Docker</td>
   </tr>
 </table>
