@@ -60,7 +60,7 @@ I build AI agent pipelines that go from **automated research** to **real-money e
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app/?user=TLSRUF&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=TLSRUF&theme=tokyonight&hide_border=true" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:08f7fe,60:ff2e63,100:8a2be2&height=150&section=footer&animation=fadeIn&fontColor=ffffff" width="100%"/>
